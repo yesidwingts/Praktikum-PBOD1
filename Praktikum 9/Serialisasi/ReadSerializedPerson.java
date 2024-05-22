@@ -1,9 +1,9 @@
 /*
 * Nama File    : ReadSerializedPerson.java
-* Nama Pembuat : Fauzan Ramadhan Putra
-* NIM          : 24060121140140
+* Nama Pembuat : Yesi Dwi Ningtias
+* NIM          : 24060122120027
 * Deskripsi    : Main file untuk membaca data dari serialisasi
-* Tanggal      : 03 Juni 2023
+* Tanggal      : 20 Juni 2024
 */
 
 import java.io.*;
