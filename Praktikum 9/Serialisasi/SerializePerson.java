@@ -1,9 +1,9 @@
 /*
 * Nama File    : SerializePerson.java
-* Nama Pembuat : Fauzan Ramadhan Putra
-* NIM          : 24060121140140
+* Nama Pembuat : Yesi Dwi Ningtias
+* NIM          : 24060122120027
 * Deskripsi    : Main file untuk menyimpan data melalui serialisasi
-* Tanggal      : 03 Juni 2023
+* Tanggal      : 20 Mei 2024
 */
 import java.io.*;
 
